@@ -34,3 +34,18 @@ src/
 └── main.jsx
 
 public/
+## How to Run
+
+npm install
+npm run dev
+
+Then open the local URL provided by Vite in your browser.
+
+## Project Domain
+
+Job Portal — Single-Page Application
+
+## Author
+
+Snehal Ingale
+Information Technology Engineering Student
